@@ -13,6 +13,7 @@ WeChat: ly84264245489464
 
 # 个人简介
 前端工程师 
+
 喜欢 JavaScript 语言和相关组件以及 React.js、vue.js、node.js、mongoDB等技术
 
 
@@ -22,7 +23,7 @@ WeChat: ly84264245489464
 前端工具：sass/postcss/less/hexo/requirejs/
 数据库相关：MongoDB
 版本管理、文档和自动化部署工具：Svn/Git/Webpack/Gulp
+其他：日语N2、Sony Segas
 
-
-# 技能清单
-日语N2、Sony Segas
+#兴趣
+偶像大师狂热爱好者(本命春香),爬山爱好者
